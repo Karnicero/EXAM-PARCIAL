@@ -1,3 +1,4 @@
+#EXAMEN PARCIAL PUMA SOSA BRAYAN FRANCISCO
 print("Diseña un algoritmo en el que se ingrese 2 digitos para dividirlos y el programa los contabilice y los acumule usando el while.")
 acumu=0
 div=0
